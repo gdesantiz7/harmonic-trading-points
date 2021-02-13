@@ -3,7 +3,7 @@ The Fibonacci sequence is one of the most famous formulas in mathematics because
 
 <img src="images/Screen Shot 2021-02-13 at 2.05.19 PM.png" width="225" height="200">
 
-<img src="images/Screen Shot 2021-02-13 at 2.21.21 PM" width="250" height="250">
+<img src="images/Screen Shot 2021-02-13 at 2.21.21 PM.png" width="250" height="250">
 
 The primary goal of this project is to provide a harmonic trading function that can distinguish all points within a 5-point price structure given each Fibonacci calculation that corresponds with a specific harmonic pattern.
 
