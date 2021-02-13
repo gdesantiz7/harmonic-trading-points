@@ -25,5 +25,5 @@ Lastly, type fx_weighted_average() and within the parenthesis, enter two lists s
 Using the provided example above, the output should look like this: 6,000,000 at 1.11290
 
 ## Links
-* Harmonic Pattern Education: [Harmonic Trader](https://harmonictrader.com/)
-* Harmonic Pattern Software: [FormationSeeker](https://formationseeker.com/)
+* Harmonic Pattern Education: [Harmonic Trader](https://www.harmonictrader.com/)
+* Harmonic Pattern Software: [FormationSeeker](https://www.formationseeker.com/)
