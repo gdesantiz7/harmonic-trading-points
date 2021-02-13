@@ -12,7 +12,9 @@ In Financial Markets...
 The primary goal of this project is to provide a harmonic trading function that can distinguish all points within a 5-point price structure given each Fibonacci calculation that corresponds with a specific harmonic pattern.
 
 ## Using Harmonic Trading Points
-First, import List from the typing library followed by holding shift and pressing enter.
+Harmonic trading patterns are comprised of five points X, A, B, C, and D.  In this function, the user must supply the X point (the starting price of the pattern), the A point (the ending price of the first move in the pattern), the XAB ratio (the percentage of the B point relative to points X and A), the ABC ratio (the percentage of the C point relative to points A and B), the BCD ratio (the percentage of the D point relative to points B and C), the XAD ratio (the percentage of the D point relative to points X and A), and the AB=CD ratio (the percentage of the D point relative to points A and B).  The output is a five point harmonic trading pattern or five points in currency terms and a price reversal zone (PRZ) which encompasses D, XAD, and ABCD.
+
+<img src="images/Screen Shot 2021-02-13 at 2.50.48 PM.png" width="50" height="10">
 
 ## Links
 * Harmonic Pattern Education: [Harmonic Trader](https://www.harmonictrader.com/)
