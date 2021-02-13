@@ -16,7 +16,7 @@ Harmonic trading patterns are comprised of five points X, A, B, C, and D.  In th
 
 So in the example we have below, there is a theoretical asset with a starting price of 1460 (represented by X) and then it makes a move up to 1520 (represented by A).  If we wanted to see what the rest of the prices would be at B, C, and D according to a "perfect bat pattern" we would plug in the values of 0.5 (represented by XAB), 0.618 (represented by ABC), 2.0 (represented by BCD), 0.886 (represented by XAD), and 1.27 (represented by ABCD).  All of these parameters would return what is seen below, and if all of the price levels were touched in the "potential reversal zone" then perhaps this could signal a buy.
 
-<img src="images/Screen Shot 2021-02-13 at 2.50.48 PM.png" width="650" height="110">
+<img src="images/Screen Shot 2021-02-13 at 3.14.32 PM.png" width="650" height="110">
 
 ## Links
 * Harmonic Pattern Education: [Harmonic Trader](https://www.harmonictrader.com/)
